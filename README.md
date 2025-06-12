@@ -54,5 +54,3 @@ O projeto e toda a documentação estão em português para facilitar o entendim
 Os dados utilizados neste projeto não estão disponíveis publicamente. São privados e foram usados no âmbito da realização deste projeto
 
 
-
-![Clusterings criados]("C:\Users\nuno_\Documents\GitHub\clustering-costumers-restaurant-KMEANS-pt\figures\Clustering-3groups.png")
