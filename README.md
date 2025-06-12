@@ -55,4 +55,4 @@ Os dados utilizados neste projeto não estão disponíveis publicamente. São pr
 
 
 
-![Clusterings criados]("C:\Users\nuno_\Documents\PEN\RL DSBA\AULAS\Modulo 7 - ML Models\Trabalho final\Guidelines Clustering Projeto Final\Clustering-3groups.png")
+![Clusterings criados]("C:\Users\nuno_\Documents\GitHub\clustering-costumers-restaurant-KMEANS-pt\figures\Clustering-3groups.png")
