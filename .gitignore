@@ -1,0 +1,9 @@
+# =========================
+# Git Ignore - Python Project
+# =========================
+
+# Dados
+data/
+*.csv
+*.xlsx
+
